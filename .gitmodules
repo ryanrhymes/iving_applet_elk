@@ -1,3 +1,0 @@
-[submodule "bundle"]
-	path = bundle
-	url = git@github.com:deviantony/docker-elk.git
